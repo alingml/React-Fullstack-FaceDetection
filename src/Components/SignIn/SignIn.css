@@ -1,0 +1,21 @@
+.signInForm {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 5px;
+  color: white;
+  padding: 30px;
+}
+
+input {
+  color: white;
+  border: 5px solid white;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
